@@ -2,8 +2,8 @@
 ! Checksum: FRDz5eqwPseETR/4OQFk7A
 ! Version: 202503120451
 ! Title: ABPVN List+EasyList
-! Last modified: 12 Mar 2025 04:51 UTC
-! Expires: 1 days (update frequency)
+! Last modified: 13 Mar 2025 04:51 UTC
+! Expires: 30 minutes (update frequency)
 ! Homepage: https://abpvn.com/
 !
 ! *** abpvn.txt ***
