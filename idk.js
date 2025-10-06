@@ -73,6 +73,7 @@
       return;
     }
 
+    console.log("Loading Material Web");
     const script = document.createElement('script');
     script.type = 'module';
     // Load all Material Web components from CDN
